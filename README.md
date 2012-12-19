@@ -16,3 +16,6 @@ if (cza("ike", "iguanakoalaelephant") === true ) {
     // authenticated!
 }
 ```
+
+## origin
+Extrated from [node-ignition](https://github.com/B2MSolutions/node-ignition)
